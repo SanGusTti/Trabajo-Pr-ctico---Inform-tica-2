@@ -1,4 +1,4 @@
-## Sistema de Neutralizado para Efluentes
+## SISTEMA DE NEUTRALIZADO DE EFLUENTES
 
 # Memoria Descriptiva
 
@@ -18,4 +18,36 @@ Nota: El sistema permitirá que no sólo se utilice para los valores mencionados
 
 ![./Fuentes/Diagrama de estados y transiciones.png](https://github.com/SanGusTti/Trabajo_Practico_Integrador_Informatica-2/blob/main/Fuentes/Diagrama%20de%20estados%20y%20transiciones.png)
 
+- __SET__: Bandera de fin de inicialización
+- __Niv_TK__: Nivel actual de fluido en tanque
+- __Niv_TK_Max__: Nivel máximo de tanque
+- __Niv_TK_Min__: Nivel mínimo de tanque
+- __Ph__: Valor actual de Ph del fluido
+- __SP_Ph__: Set Point de Ph
+
+# Código
+
+- Archivo de cabecera __mylib.h__
+
+```c
+
+"aquí va el código"
+
+```
+
+- Archivo __main.c__
+
+```c
+
+"aquí va el código"
+
+```
+
+- Archivo __config.conf__
+
+```bash
+
+"aquí va el código"
+
+```
 
